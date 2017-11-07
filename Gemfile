@@ -27,6 +27,10 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 gem 'activeadmin'
 gem 'devise'
+gem 'paperclip'
+gem 'ckeditor'
+gem 'friendly_id', '~> 5.1.0'
+gem 'haml'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
